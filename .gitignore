@@ -1,0 +1,15 @@
+# Временные папки сборки и кэш Simulink
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*_sfcn_rtw/
+slcov_output/
+
+# Временные автосохранения и скомпилированные MEX-файлы
+*.autosave
+*.slxc
+*.mexw64
+*.mexa64
+*.mexmaci64
+*.pdb
+*.ilk
